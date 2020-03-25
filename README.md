@@ -1,7 +1,10 @@
 # Introduction
 
 Cryptobiosis describes the suspended animation that some microbes enter under adverse conditions such as drought, cold, and lack of oxygen.
-Additionally, the kingdom fungi possesses a relatively well conserved and multifunctional signalling network called the Mitogen Activated Protein Kinase (MAPK) pathways that respond to osmosis, light, pH, pheromones, etc.
+The kingdom fungi possesses a relatively well conserved and multifunctional signalling network called the Mitogen Activated Protein Kinase (MAPK) pathways that respond to changes in osmosis, light, pH, pheromones, etc.
+
+This paper examines the physical chemical properties of supercooled aqueous solutions, and the physiological tolerances of filamentous fungi, to develop an inexpensive storage medium.
+The parameters for success in this experiment involve confirming the cultures can produce fruitbodies and spores upon revival.
 
 Successful long-term culture storage is critical to any serious mushroom-related endeavor.
 For basidiomycete (mushroom forming) fungi it remains an open problem.
@@ -14,40 +17,48 @@ My prior work on long-term storage
 [diybio/water-cultures](https://pjc.is/diybio/water-cultures) and [diybio/perlite-protocol](https://pjc.is/diybio/perlite-protocol)
 describes useful lessons in the state of the art.
 This paper describes a novel medium informed by mammal flesh storage that
-- uses the nontoxic cryoprotectants DMSO and glycerol;
-- has a glass transition temperature of –20 °C for cell vitrification;
+- uses a combination of nontoxic cryoprotectants like DMSO, glycerol, and tetralose;
+- has a glass transition temperature around –20 °C for cell vitrification;
 - quickly changes to a liqid at room temperature, allowing convenient revival;
 - provides essential nutrients with low quantities of basal sugar and salt; and
-- requires no specific equipment to successfully reproduce.
+- requires no specific equipment or recurring costs to successfully reproduce.
+
+The medium should exhibit ideal properties at –20 °C, exert just enough osmotic stress to force hardship metabolism, and not otherwise starve the fungi.
+This work comes on the suggestion of a member of the Shroomery's PhD tribe, who suggested that "sometimes the deep freeze isn't the answer."
 
 
 # Materials and methods
 
-This time Alice waited till she was always ready to play croquet.' Then they both sat silent for a dunce? Go on!' 'I'm a poor man, your Majesty,' he began, 'for bringing these in: but I think I can go back by railway,' she said to Alice, she went on, 'you throw the--' 'The lobsters!' shouted the Queen. 'Can you play croquet?' The soldiers were silent, and looked at Alice, and her face like the look of the Mock Turtle recovered his voice, and, with tears running down his cheeks, he went on.
+The deionized water came from [add supplier] in [add city].
+The USP glycerol came from [add supplier] in [add city].
+The USP DMSO came from [add supplier] in [add city].
+
+The cryotubes came from [add supplier] in [add city].
+The freezer came from [add supplier] in [add city].
 
 
-## The physical chemical properties
+## Developing a test medium
 
-The goal was to find a ratio of glycerol, DMSO, and media that behaved as a gel at –20 °C and vitrified the cells.
-Additionally, the solution had to exert the minimum osmotic stress necessary to activate the Hog1 orthologues of diverse fungi.
+I made blank tubes, standard 1.5 mL Eppendorfs, to produce multivariate freeze point data.
+Equipment that measures ice granulation is beyond my grasp, so I reconstructed hypothetical curves from 30 data points.
 
-The main physical parameters I considered were freezing point by weight, osmotic pressure and related measurements like gravity and water potential, and the miscibility and solubility in water.
-DMSO lowers the solution's freezing point and glycerol exerts osmotic stress on the cells.
-
-**DMSO.**
-[Add narrative text.]
+I established scaled-down quantities to 1 mL test tubes with [Aqua-Calc's conversion tools](https://www.aqua-calc.com/calculate/weight-to-volume).
+None of the tubes were made in a sterile environment, so random cells existed to act as possible granulation points.
 
 | ![](DMSO.water.freezing.jpg)	|
 | :--				|
 | Freezing Point Data for DMSO Water Solutions from https://www.gaylordchemical.com/literature/dmso-physical-properties/ |
 
-Blah blah blah.
+The goal was to find a ratio of glycerol, DMSO, and media that behaved like a thick liquid or gel at –20 °C and vitrified the cells.
+Additionally, the solution had to exert the minimum osmotic stress necessary to activate the Hog1 (high osmolarity glycerol) orthologues of diverse fungi.
 
-**Glycerol.**
-Blah blah blah.
+The main physical parameters I considered were freezing point by weight, osmotic pressure and related measurements like gravity and water potential, and the miscibility and solubility in water.
+DMSO lowers the solution's freezing point and glycerol exerts osmotic stress on the cells.
 
 
-## Calculating the solution's osmotic pressure
+## Calculating the physical chemical properties
+
+In terms of ice formation, the DMSO coats the cell walls and the glycerol disrupts water's tetrahedral structure.
 
 Blomberg, A., & Adler, L. (1992). Physiology of Osmotolerance in Fungi. Advances in Microbial Physiology, 145–212. doi:10.1016/s0065-2911(08)60217-9 
 https://sci-hub.tw/10.1016/S0065-2911(08)60217-9
@@ -108,7 +119,7 @@ todo:
 Describe how 50:50 saline and glycerol implements the elegance of the Shroomery post's "vision."
 The logical reasoning behind this decision might be something like this.
 
-```
+```sh
 if !funding
   unset cryo
 
@@ -119,13 +130,13 @@ if !funding
 
   foreach condition
     while nature modulo condition
-    do mimic nature's essence
+    do mimic nature's conditions
 
 else
   foreach cryo method
     consider [cost, ease, convenience]
 
-freeze slow - thaw fast
+freeze slow; thaw fast
 return blog post
 ```
 
