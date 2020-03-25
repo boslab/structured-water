@@ -4,7 +4,7 @@ Cryptobiosis describes the suspended animation that some microbes enter under ad
 The kingdom fungi possesses a relatively well conserved and multifunctional signalling network called the Mitogen Activated Protein Kinase (MAPK) pathways that respond to changes in osmosis, light, pH, pheromones, etc.
 
 This paper examines the physical chemical properties of supercooled aqueous solutions, and the physiological tolerances of filamentous fungi, to develop an inexpensive storage medium.
-The parameters for success in this experiment involve confirming the cultures can produce fruitbodies and spores upon revival.
+The parameters for success in this experiment include confirming that cultures are not only alive, but can also produce fruitbodies and spores upon revival.
 
 Successful long-term culture storage is critical to any serious mushroom-related endeavor.
 For basidiomycete (mushroom forming) fungi it remains an open problem.
@@ -24,7 +24,7 @@ This paper describes a novel medium informed by mammal flesh storage that
 - requires no specific equipment or recurring costs to successfully reproduce.
 
 The medium should exhibit ideal properties at –20 °C, exert just enough osmotic stress to force hardship metabolism, and not otherwise starve the fungi.
-This work comes on the suggestion of a member of the Shroomery's PhD tribe, who suggested that "sometimes the deep freeze isn't the answer."
+A member of the Shroomery's PhD tribe inspired this work, suggesting that "sometimes the deep freeze isn't the answer."
 
 
 # Materials and methods
@@ -42,6 +42,18 @@ The freezer came from [add supplier] in [add city].
 I made blank tubes, standard 1.5 mL Eppendorfs, to produce multivariate freeze point data.
 Equipment that measures ice granulation is beyond my grasp, so I reconstructed hypothetical curves from 30 data points.
 
+Note that I used binary data (frozen or not?) and macro inspection (relative crystallization?) to estimate the curves.
+All the measures below are in % w/v per 1 mL deionized water.
+The basal saline is 50:50 sea salt and light malt extract.
+
+| DMSO	| ×	| Glycerol	| ×	| Saline	|
+| :--:	| :--:	| :--:		| :--:	| :--		|
+|	|	| 5%		|	|		|
+| 15%	|	| 10%		|	| 0.9% NaCl	|
+|	| ×	| 15%		| ×	| 0.6% basal	|
+| 20%	|	| 20%		|	| 0.3% basal	|
+|	|	| 25%		|	|		|
+
 I established scaled-down quantities to 1 mL test tubes with [Aqua-Calc's conversion tools](https://www.aqua-calc.com/calculate/weight-to-volume).
 None of the tubes were made in a sterile environment, so random cells existed to act as possible granulation points.
 
@@ -51,6 +63,9 @@ None of the tubes were made in a sterile environment, so random cells existed to
 
 The goal was to find a ratio of glycerol, DMSO, and media that behaved like a thick liquid or gel at –20 °C and vitrified the cells.
 Additionally, the solution had to exert the minimum osmotic stress necessary to activate the Hog1 (high osmolarity glycerol) orthologues of diverse fungi.
+
+The value of the real parameters is error-tolerant ±5 °C as long as the inoculated solution remains viscous and not crystals.
+The tradeoff is between a simple formula that works, and a precise one that targets the exact glass transition temperature.
 
 The main physical parameters I considered were freezing point by weight, osmotic pressure and related measurements like gravity and water potential, and the miscibility and solubility in water.
 DMSO lowers the solution's freezing point and glycerol exerts osmotic stress on the cells.
