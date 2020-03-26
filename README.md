@@ -71,10 +71,8 @@ DMSO lowers the freezing point and glycerol disrups crystals.
 
 ## Calculating the physical chemical properties
 
-How to Calculate Osmotic Pressure
+How to Calculate Osmotic Pressure<br />
 https://www.thoughtco.com/calculate-osmotic-pressure-example-609518
-
-Osmotic pressure is expressed by the formula:
 
 Π = iMRT
 
@@ -105,9 +103,9 @@ https://en.wikipedia.org/wiki/Glycerol_(data_page)
 ## Freezing the solution
 
 I put the normal tubes in a normal freezer box at –20 °C and waited for the ice question to resolve.
-I votexed all the tubes for 5s and arranged them all away from the box edges.
+I votexed all the tubes for 5s and arranged them away from the box edges.
 
-Then I waited two weeks because of a more virulent flu season.
+Then I waited two weeks because of an uncommonly virulent flu season.
 Several other people used the freezer in the meantime, moving and jostling the box.
 
 When I tested the solidity, I also vortexed the unfrozen tubes 2s to induce crystals.
@@ -155,7 +153,7 @@ todo
 
 ## An algorithm for the reasoning
 
-```sh
+```
 if !funding
   unset nitrogen
 
