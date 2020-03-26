@@ -57,18 +57,16 @@ The basal saline is 50:50 sea salt and light malt extract.
 I established scaled-down quantities to 1 mL test tubes with [Aqua-Calc's conversion tools](https://www.aqua-calc.com/calculate/weight-to-volume).
 None of the tubes were made in a sterile environment, so random cells existed to act as possible granulation points.
 
-| ![](DMSO.water.freezing.jpg)	|
-| :--				|
-| Freezing Point Data for DMSO Water Solutions from https://www.gaylordchemical.com/literature/dmso-physical-properties/ |
-
-The goal was to find a ratio of glycerol, DMSO, and media that behaved like a thick liquid or gel at –20 °C and vitrified the cells.
-Additionally, the solution had to exert the minimum osmotic stress necessary to activate the Hog1 (high osmolarity glycerol) orthologues of diverse fungi.
-
 The value of the real parameters is error-tolerant ±5 °C as long as the inoculated solution remains viscous and not crystals.
 The tradeoff is between a simple formula that works, and a precise one that targets the exact glass transition temperature.
 
 The main physical parameters I considered were freezing point by weight, osmotic pressure and related measurements like gravity and water potential, and the miscibility and solubility in water.
 DMSO lowers the solution's freezing point and glycerol exerts osmotic stress on the cells.
+
+
+| ![](DMSO.water.freezing.jpg)	|
+| :--				|
+| Freezing Point Data for DMSO Water Solutions from https://www.gaylordchemical.com/literature/dmso-physical-properties/ |
 
 
 ## Calculating the physical chemical properties
@@ -123,9 +121,33 @@ https://en.wikipedia.org/wiki/Glycerol_(data_page)
 
 
 
+## Freezing the solution
+
+I put the normal tubes in a normal freezer box at –20 °C and waited for the ice question to resolve.
+I votexed all the tubes for 5s and arranged them all away from the box edges.
+
+Then I waited two weeks because of a more virulent flu season.
+Several other people used the freezer in the meantime, moving and jostling the box.
+
+When I tested the solidity, I also vortexed the unfrozen tubes 2s to induce crystals.
+None of the manhandled tubes spontaneously froze.
+
+Several tubes had fully formed snowflakes inside.
+todo: Photograph a snowflake tube
+
+
 # Results and discussion
 
 Alice. 'But you're so easily offended!' 'You'll get used to queer things happening. While she was talking. 'How CAN I have none, Why, I do wonder what they WILL do next! As for pulling me out of a well?' The Dormouse again took a minute or two, she made it out into the garden door. Poor Alice! It was all about, and called out 'The Queen! The Queen!' and the whole pack of cards!' At this moment the King, and he wasn't one?' Alice asked. The Hatter was out of the words all coming different, and.
+
+
+## 20% DMSO : 10% glycerol : 0.3% sugar/salt
+
+The goal was to find a ratio of DMSO, glycerol, and media that behaved like a thick liquid or gel at –20 °C and vitrified the cells.
+Additionally, the solution had to exert the minimum osmotic stress necessary to activate the Hog1 (high osmolarity glycerol) orthologues of diverse fungi.
+
+Please see the hypothetical curves below and note that the data isn't "measured" in a meaningful sense.
+It's reconstructed from yes/know
 
 
 ## 5th generation results
