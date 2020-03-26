@@ -128,7 +128,7 @@ Additionally, the solution had to exert the minimum osmotic stress necessary to 
 Please see the hypothetical curves below and note that the data isn't "measured" in a meaningful sense.
 It's reconstructed from yes/no freezing data, along with visual inspection of the ice crystals.
 
-How I interpret the curves is zooming in on one part of the wider trajectory of the DMSO : water freeze point curve.
+I interpret the curves like zooming in on one part of the wider DMSO : water freeze point curve.
 I believe more irregularities will appear (e.g., the red line) the closer and more precisely you look.
 
 Please do take the curves with a grain of salt becaue they represent educated guesses and not measurements.
@@ -138,7 +138,7 @@ The outlined box is the "target zone" of freezing temperatures below –20 °C u
 Glycerol's osmotic power is too strong relative to its antifreeze power to use too much of.
 
 
-| ![](DMSO.GLY.NaCl.300ppi.half.jpg)	|
+| ![](DMSO.GLY.NaCl.half.jpg)	|
 | :--				|
 | Estimated (sketchy) and observed (solid) curves for 30 possible cyro formula |
 
