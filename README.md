@@ -138,7 +138,7 @@ The outlined box is the "target zone" of freezing temperatures below –20 °C u
 Glycerol's osmotic power is too strong relative to its antifreeze power to use too much of.
 
 
-| ![](DMSO.GLY.NaCl.72ppi.jpg)	|
+| ![](DMSO.GLY.NaCl.300ppi.half.jpg)	|
 | :--				|
 | Estimated (sketchy) and observed (solid) curves for 30 possible cyro formula |
 
