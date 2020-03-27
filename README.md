@@ -28,8 +28,8 @@ A member of the Shroomery's PhD tribe inspired this work, suggesting that "somet
 
 
 | ![](cryotubes.jpg)	|
-| :--				|
-| What's in the tube: DMSO coats fungal hyphae while glycerol disrupts ice crystal tetrahedra. Dissolved sugar and salt buffer the solution and provide essential nutrients. |
+| :--			|
+| What's in the tubes: DMSO coats fungal hyphae while glycerol disrupts ice crystal tetrahedra. Dissolved sugar and salt buffer the solution and provide essential nutrients. |
 
 
 # Materials and methods
@@ -55,7 +55,7 @@ The basal saline is 50:50 sea salt and light malt extract.
 | :--:	| :--:	| :--:		| :--:	| :--		|
 |	|	| 5%		|	|		|
 | 15%	|	| 10%		|	| 0.9% NaCl	|
-|	| ×	| 15%		| ×	| 0.6% basal	|
+|	| ↗	| 15%		| ↘	| 0.6% basal	|
 | 20%	|	| 20%		|	| 0.3% basal	|
 |	|	| 25%		|	|		|
 
@@ -76,17 +76,20 @@ DMSO lowers the freezing point and glycerol disrupts crystals.
 
 ## Calculating the physical chemical properties
 
-How to Calculate Osmotic Pressure<br />
-https://www.thoughtco.com/calculate-osmotic-pressure-example-609518
+Fungi normally maintain internal turgor pressures around 600 kPa at room temperature (293 K).
+http://www.yorku.ca/planters/Mycota_Review.pdf
 
-Π = iMRT
+To estimate the osmotic stress of combined solutes at 253.15 K on a typical terrestrial fungus, I used the below version of the ideal gas law.
+
+π = MRT
 
 where<br />
-Π is the osmotic pressure in atm<br />
-i = van 't Hoff factor of the solute<br />
-M = molar concentration in mol/L<br />
-R = universal gas constant = 0.08206 L·atm/mol·K<br />
-T = absolute temperature in K
+`π =` osmotic pressure in atm<br />
+`M =` molar concentration in mol/L<br />
+`R =` universal gas constant, 0.08206 L·atm/K·mol<br />
+`T =` absolute temperature in K
+
+
 
 Glycerol: C3H8O3
 
