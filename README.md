@@ -27,6 +27,11 @@ The medium should exhibit ideal properties at –20 °C, exert just enough osmot
 A member of the Shroomery's PhD tribe inspired this work, suggesting that "sometimes the deep freeze isn't the answer."
 
 
+| ![](cryotubes.jpg)	|
+| :--				|
+| What's in the tube: DMSO coats fungal hyphae while glycerol disrupts ice crystal tetrahedra. Dissolved sugar and salt buffer the solution and provide essential nutrients. |
+
+
 # Materials and methods
 
 The deionized water came from [add supplier] in [add city].
@@ -61,7 +66,7 @@ The real value of the parameters is error-tolerant ±5 °C as long as the inocul
 The tradeoff is between a simple formula that works, and a precise one that targets the exact glass transition temperature.
 
 The main physical parameters I considered were freezing point by weight, osmotic pressure and related measurements like gravity and water potential, and the miscibility and solubility in water.
-DMSO lowers the freezing point and glycerol disrups crystals.
+DMSO lowers the freezing point and glycerol disrupts crystals.
 
 
 | ![](DMSO.water.freezing.jpg)	|
