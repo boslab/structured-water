@@ -79,21 +79,32 @@ DMSO lowers the freezing point and glycerol disrupts crystals.
 Fungi normally maintain internal turgor pressures around 600 kPa at room temperature (293 K).
 http://www.yorku.ca/planters/Mycota_Review.pdf
 
+The molarity of the solutes was 2.55984 M (20% DMSO), 1.08585 M (10% glycerol), and 0.05133 M (0.3% saline).
 To estimate the osmotic stress of combined solutes at 253.15 K on a typical terrestrial fungus, I used the below version of the ideal gas law.
 
-π = MRT
+_π = MRT,_ where
 
-where<br />
 `π =` osmotic pressure in atm<br />
 `M =` molar concentration in mol/L<br />
-`R =` universal gas constant, 0.08206 L·atm/K·mol<br />
+`R =` normal gas constant, 0.08206 L·atm/K·mol<br />
 `T =` absolute temperature in K
 
+Unsure of how volume affects osmolarity, I used
+[R. Nave's HyperPhysics calculator](http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/ospcal.html)
+to 1 mL volumes, what will be in each tube:
 
+- 0.020g DMSO, 538.79898 kPa
+- 0.010g glycerol, 228.55107 kPa
+- 0.003g saline, 108.04467 kPa
 
-Glycerol: C3H8O3
+The combined osmotic pressure is 875.39472 kPa.
+Subtracting the 600 kPa internal pressure associated with active growth,
+this leaves 275.39472 kPa of environmental stress in an otherwise unpressurized environment.
 
-https://www.aqua-calc.com/page/volume-weight-conversions
+That stress is about 46% of the reference 600 kPa, suggesting that hyphae will be squeezed to about 54% their normal size.
+The fungi themselves will mitigate this to a degree by taking in glycerol and producing it themselves.
+Given that fungi are known to survive in up to 5M NaCl, the effects seem gentle enough in terms of adverse conditions.
+Nobody wants to be stuffed into a supercold tube with DMSO making you taste garlic.
 
 ---
 
