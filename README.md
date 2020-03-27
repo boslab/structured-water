@@ -69,20 +69,16 @@ The main physical parameters I considered were freezing point by weight, osmotic
 DMSO lowers the freezing point and glycerol disrupts crystals.
 
 
-| ![](DMSO.water.freezing.jpg)	|
-| :--				|
-| Freezing Point Data for DMSO Water Solutions from [Gaylord Chemical](https://www.gaylordchemical.com/literature/dmso-physical-properties/) |
+## Measuring the chemical properties
 
-
-## Calculating the physical chemical properties
-
+__Pressure.__
 Fungi normally maintain internal turgor pressures around 600 kPa at room temperature (293 K).
 http://www.yorku.ca/planters/Mycota_Review.pdf
 
 The molarity of the solutes was 2.55984 M (20% DMSO), 1.08585 M (10% glycerol), and 0.05133 M (0.3% saline).
 To estimate the osmotic stress of combined solutes at 253.15 K on a typical terrestrial fungus, I used the below version of the ideal gas law.
 
-_π = MRT,_ where
+π = MRT, _where_
 
 `π =` osmotic pressure in atm<br />
 `M =` molar concentration in mol/L<br />
@@ -103,35 +99,36 @@ this leaves 275.39472 kPa of environmental stress in an otherwise unpressurized 
 
 That stress is about 46% of the reference 600 kPa, suggesting that hyphae will be squeezed to about 54% their normal size.
 The fungi themselves will mitigate this to a degree by taking in glycerol and producing it themselves.
+
 Given that fungi are known to survive in up to 5M NaCl, the effects seem gentle enough in terms of adverse conditions.
 Nobody wants to be stuffed into a supercold tube with DMSO making you taste garlic.
 
----
+__Freezing Point.__
+I votexed the tubes for 5s and arranged them away from the edges of a freezer box.
+I put the box in a –20 °C freezer and waited for the ice question to resolve.
 
-https://en.wikipedia.org/wiki/Glycerol_(data_page)
-
-| Glycerol (% w/w)	| Freezing (°C)	| SG (d<sup>15</sup>°)	|
-| :--:			| :--:		| :--:			|
-| 10			| –1.6		| 1.02415		|
-| 20			| –4.8		| 1.04935		|
-| 30			| –9.5		| 1.07560		|
-| 40			| –15.5		| 1.10255		|
-| 50			| –22.0		| 1.12985		|
-
-
-## Freezing the solution
-
-I put the normal tubes in a normal freezer box at –20 °C and waited for the ice question to resolve.
-I votexed all the tubes for 5s and arranged them away from the box edges.
-
-Then I waited two weeks because of an uncommonly virulent flu season.
-Several other people used the freezer in the meantime, moving and jostling the box.
-
-When I tested the solidity, I also vortexed the unfrozen tubes 2s to induce crystals.
+After two weeks, I vortexed the unfrozen tubes 2s to induce crystals.
 None of the manhandled tubes spontaneously froze.
 
 Several tubes had fully formed snowflakes inside.
-todo: Photograph a snowflake tube
+todo: Photograph a snowflake tube.
+
+__pH.__
+todo:
+Test the pH of a 200 mL production batch before autoclaving.
+
+
+| ![](DMSO.water.freezing.jpg)	|
+| :--				|
+| Freezing Point Data for DMSO Water Solutions from [Gaylord Chemical](https://www.gaylordchemical.com/literature/dmso-physical-properties/) |
+
+
+## Preparing the culture tubes
+
+todo:
+Describe fermenting for 5 days until the cusp of the exponential phase on MYPB.
+Then repeatedly centrifuge and wash the pellet instorage medium.
+Aim for a thick solution of fine hyphae fragments, to deposit 5 μL on a plate.
 
 
 # Results and discussion
