@@ -27,8 +27,8 @@ The medium should exhibit ideal properties at –20 °C, exert just enough osmot
 A member of the Shroomery's PhD tribe inspired this work, suggesting that "sometimes the deep freeze isn't the answer."
 
 
-| ![](cryotubes.jpg)	|
-| :--			|
+| ![](pictures/cryotubes.jpg)	|
+| :--				|
 | What's in the tubes: DMSO coats fungal hyphae while glycerol disrupts ice crystal tetrahedra. Dissolved sugar and salt buffer the solution and provide essential nutrients. |
 
 
@@ -71,7 +71,7 @@ DMSO lowers the freezing point and glycerol disrupts crystals.
 
 ## Measuring the chemical properties
 
-__Pressure.__
+**Pressure.**
 Fungi normally maintain internal turgor pressures around 600 kPa at room temperature (293 K).
 http://www.yorku.ca/planters/Mycota_Review.pdf
 
@@ -95,7 +95,7 @@ to 1 mL volumes, what will be in each tube:
 
 The combined osmotic pressure is 875.39472 kPa.
 Subtracting the 600 kPa internal pressure associated with active growth,
-this leaves 275.39472 kPa of environmental stress in an otherwise unpressurized environment.
+this leaves 275.39472 kPa of environmental stress in an otherwise unpressurized environment, within and without.
 
 That stress is about 46% of the reference 600 kPa, suggesting that hyphae will be squeezed to about 54% their normal size.
 The fungi themselves will mitigate this to a degree by taking in glycerol and producing it themselves.
@@ -103,7 +103,7 @@ The fungi themselves will mitigate this to a degree by taking in glycerol and pr
 Given that fungi are known to survive in up to 5M NaCl, the effects seem gentle enough in terms of adverse conditions.
 Nobody wants to be stuffed into a supercold tube with DMSO making you taste garlic.
 
-__Freezing Point.__
+**Freezing Point.**
 I votexed the tubes for 5s and arranged them away from the edges of a freezer box.
 I put the box in a –20 °C freezer and waited for the ice question to resolve.
 
@@ -113,21 +113,21 @@ None of the manhandled tubes spontaneously froze.
 Several tubes had fully formed snowflakes inside.
 todo: Photograph a snowflake tube.
 
-__pH.__
-todo:
+**pH.**
+`todo:`
 Test the pH of a 200 mL production batch before autoclaving.
 
 
-| ![](DMSO.water.freezing.jpg)	|
-| :--				|
+| ![](pictures/DMSO.water.freezing.jpg)	|
+| :--					|
 | Freezing Point Data for DMSO Water Solutions from [Gaylord Chemical](https://www.gaylordchemical.com/literature/dmso-physical-properties/) |
 
 
 ## Preparing the culture tubes
 
-todo:
-Describe fermenting for 5 days until the cusp of the exponential phase on MYPB.
-Then repeatedly centrifuge and wash the pellet instorage medium.
+`todo:`
+Describe fermenting for 5 days in MYPB until the cusp of the exponential phase.
+Then repeatedly centrifuge and wash the pellet in storage medium.
 Aim for a thick solution of fine hyphae fragments, to deposit 5 μL on a plate.
 
 
@@ -149,22 +149,22 @@ Please do take the curves with a grain of salt becaue they represent educated gu
 The observed frozen tubes seem to suggest that dissolved salts inhibit DMSO's antifreeze power to a degree.
 
 The outlined box is the "target zone" of freezing temperatures below –20 °C using the least possible glycerol.
-Glycerol's osmotic power is too strong relative to its antifreeze power to use too much of.
+Its gravity is too strong relative to its antifreeze power to use too much of.
 
 
-| ![](DMSO.GLY.NaCl.half.jpg)	|
-| :--				|
+| ![](pictures/DMSO.GLY.NaCl.half.jpg)	|
+| :--					|
 | Estimated (sketchy) and observed (solid) curves for 30 possible cyro formula |
 
 
 ## 5th generation results
 
-todo:
+`todo:`
 Freeze, revive, and fruit cultures on a convenient basis.
 
 # Future work
 
-todo
+`todo`
 
 
 ## An algorithm for the reasoning
