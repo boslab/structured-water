@@ -35,11 +35,12 @@ A member of the Shroomery's PhD tribe inspired this work, suggesting that "somet
 # Materials and methods
 
 The deionized water came from [add supplier] in [add city].
-The USP glycerol came from [add supplier] in [add city].
-The USP DMSO came from [add supplier] in [add city].
+The sea salt came from [add supplier] in [add city].
+The light malt extract (CBW Bavarian Wheat) came from Breiss Malt & Ingredients in Chilton, WI.
 
-The cryotubes came from [add supplier] in [add city].
-The freezer came from [add supplier] in [add city].
+The DMSO came from [add supplier] in [add city].
+The glycerol came from [add supplier] in [add city].
+The cryotubes (№ W985868) came from DWK Life Sciences (Wheaton) in Millville, NJ.
 
 
 ## Developing a test medium
@@ -125,6 +126,14 @@ Test the pH of a 200 mL production batch before autoclaving.
 
 ## Preparing the culture tubes
 
+I made a somewhat larger batch of medium and used it to wash the cells.
+The ingredients were, per 100 mL of deionized water,
+
+- 0.15g sea salt,
+- 0.15g light malt extract,
+- 25.24 mL DMSO, and
+- 11.2 mL glycerol.
+
 `todo:`
 Describe fermenting for 5 days in MYPB until the cusp of the exponential phase.
 Then repeatedly centrifuge and wash the pellet in storage medium.
@@ -161,6 +170,38 @@ Its gravity is too strong relative to its antifreeze power to use too much of.
 
 `todo:`
 Freeze, revive, and fruit cultures on a convenient basis.
+
+| Binomial (canon)		| Common Name			| Strain Name			| Date		| P Value	| Tube №	| Sequence?	| Hex ID	| Notes |
+| :--				| :--				| :--				| :-:		| :-:		| :-:		| :-:		| :-:		| :-- |
+| *Aspergillus niger*		| black mold			| Carolina			| 2019-09-21	| P-1		| 01		|		| `3D5D`	||
+| *Coprinus comatus*		| shaggy mane			|				| 2019-10-09	| P-2		| 02		|		| `4C9B`	||
+| *Cyclocybe aegerita*		| poplar mushroom		|				| 2018-04-10	| P-5		| 03		|		| `DFC6`	||
+| *Fomitopsis betulina*		| birch polypore		| Mass Mushroom Fest '19	| 2019-10-09	| P-2		| 04		|		| `34CA`	||
+| *Ganoderma curtisii*		| gold reishi			| Ryan Paul Gates		| 2019-03-07	| P-1		| 05		|		| `867A`	||
+| *Ganoderma lucidum*		| lingzhi reishi		| Ryan Paul Gates		| 2018-02-10	| P-1		| 06		|		| `49E3`	||
+| *Ganoderma sessile*		|				| Ryan Paul Gates · HW		| 2018-02-03	| P-1		| 07		|		| `5763`	||
+| *Grifola frondosa*		| hen of the woods		| Charles River			| 2018-12-29	| P-2		| 08		|		| `CD38`	||
+| *Grifola frondosa*		| hen of the woods		| Fat Moon Farm			| 2018-02-10	| P-1		| 09		|		| `8DE3`	||
+| *Hericium abietis*		| bear's head			|				| 2019-09-21	| P-4		| 10		|		| `BC2B`	||
+| *Hericium coralloides*	|				| Bryant Homestead		| 2019-09-21	| P-2		| 11		|		| `7D68`	||
+| *Inonotus obliquus*		| chaga				| leschampignons · Wild		| 2019-09-21	| P-1		| 12		|		| `6254`	||
+| *Ischnoderma resinosum*	| benzoin bracket		| Bryant Homestead		| 2018-02-10	| P-1		| 13		|		| `7873`	||
+| *Laetiporus* sp.		| chicken of the woods		|				| 2018-03-31	| P-1		| 14		|		| `BC74`	||
+| *Lentinula edodes*		| shiitake			| 3782				| 2018-02-10	| P-4		| 15		|		| `0F8C`	||
+| *Penicillium roqueforti*	| blue cheese mold		|				| 2019-09-21	| P-2		| 16		|		| `3626`	||
+| *Pholiota microspora*		| nameko			| JPN				| 2019-09-21	| P-1		| 17		|		| `42FD`	||
+| *Pholiota microspora*		| nameko			| Mycoterra Farm		| 2018-11-20	| P-7		| 18		|		| `39D9`	||
+| *Pleurotus columbinus*	| blue oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| 19		|		| `0586`	||
+| *Pleurotus eryngii*		| king trumpet			|				| 2019-02-26	| P-1		| 20		|		| `E48E`	||
+| *Pleurotus ostreatus*		| pearl oyster			| Black Pearl			| 2019-10-09	| P-2		| 21		|		| `ACEA`	||
+| *Pleurotus ostreatus*		| pearl oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| 22		|		| `6AC1`	||
+| *Pleurotus tuber-regium*	| king tuber			|				| 2019-09-21	| P-2		| 23		|		| `EF1B`	||
+| *Stropharia rugoso-annulata*	| garden giant · wine cap	|				| 2019-09-21	| P-2		| 24		|		| `5547`	||
+
+Tubes 01–24 are numbered alphabetically as of 2020-04-01, the last time I took full stock and the epoch for my collection.
+Tubes 25–*n* are numbered in the order received and may appear out of alphabetical order.
+The Hex ID is an arbitrary string used to identification purposes.
+
 
 # Future work
 
