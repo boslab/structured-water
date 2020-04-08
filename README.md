@@ -168,39 +168,51 @@ Its gravity is too strong relative to its antifreeze power to use too much of.
 
 ## 5th generation results
 
-`todo:`
-Freeze, revive, and fruit cultures on a convenient basis.
+The 5th generation continues the work at
+[diybio/water-cultures](/diybio/water-cultures),
+which itself continues the work at
+[AndyHinton's Journal](https://www.shroomery.org/forums/showflat.php/Number/24031222).
+The progression is
+dH<sub>2</sub>O → saline → basal saline → basal cryo
+in modified dram vials → blood serum tubes → cryo tubes.
+For the table below,
+
+- Tubes 01–24 are numbered alphabetically as of 2020-04-01, the last time I took full stock and the epoch for my collection.
+- Tubes 25–*n* are numbered in the order processed and may appear out of alphabetical order.
+- The Hex ID is an arbitrary string used for general tagging and tracking across different platforms.
+- 🔬 denotes whether polarized light microscopy data exists for the mycelium before and after storage.
+- 🧬 denotes whether Sanger sequencing data exists for the NS7/ITS4 region from [diybio/fungi-barcodes](/diybio/fungi-barcodes).
+- Other text notes follow as needed.
 
 | Tube	| Binomial			| Common			| Strain			| Date		| P Value	| Hex ID	| Notes |
 | :-:	| :--				| :--				| :--				| :-:		| :-:		| :-:		| :-- |
-| 01	| *Aspergillus niger*		| black mold			| Carolina			| 2019-09-21	| P-1		| `3D5D`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 02	| *Coprinus comatus*		| shaggy mane			|				| 2019-10-09	| P-2		| `4C9B`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 03	| *Cyclocybe aegerita*		| poplar mushroom		|				| 2018-04-10	| P-5		| `DFC6`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 04	| *Fomitopsis betulina*		| birch polypore		| Mass Mushroom Fest '19	| 2019-10-09	| P-2		| `34CA`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 05	| *Ganoderma curtisii*		| gold reishi			| Ryan Paul Gates		| 2019-03-07	| P-1		| `867A`	| 🔬 polarized |
-| 06	| *Ganoderma lucidum*		| lingzhi reishi		| Ryan Paul Gates		| 2018-02-10	| P-1		| `49E3`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 07	| *Ganoderma sessile*		|				| Ryan Paul Gates · HW		| 2018-02-03	| P-1		| `5763`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 08	| *Grifola frondosa*		| hen of the woods		| Charles River			| 2018-12-29	| P-2		| `CD38`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 09	| *Grifola frondosa*		| hen of the woods		| Fat Moon Farm			| 2018-02-10	| P-1		| `8DE3`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 10	| *Hericium abietis*		| bear's head			|				| 2019-09-21	| P-4		| `BC2B`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 11	| *Hericium coralloides*	|				| Bryant Homestead		| 2019-09-21	| P-2		| `7D68`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 12	| *Inonotus obliquus*		| chaga				| leschampignons · Wild		| 2019-09-21	| P-1		| `6254`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 13	| *Ischnoderma resinosum*	| benzoin bracket		| Bryant Homestead		| 2018-02-10	| P-1		| `7873`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 14	| *Laetiporus* sp.		| chicken of the woods		|				| 2018-03-31	| P-1		| `BC74`	| 🔬 polarized |
-| 15	| *Lentinula edodes*		| shiitake			| 3782				| 2018-02-10	| P-4		| `0F8C`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 16	| *Penicillium roqueforti*	| blue cheese mold		|				| 2019-09-21	| P-2		| `3626`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 17	| *Pholiota microspora*		| nameko			| JPN				| 2019-09-21	| P-1		| `42FD`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 18	| *Pholiota microspora*		| nameko			| Mycoterra Farm		| 2018-11-20	| P-7		| `39D9`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 19	| *Pleurotus columbinus*	| blue oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| `0586`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 20	| *Pleurotus eryngii*		| king trumpet			|				| 2019-02-26	| P-1		| `E48E`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 21	| *Pleurotus ostreatus*		| pearl oyster			| Black Pearl			| 2019-10-09	| P-2		| `ACEA`	| 🔬 polarized; 🧬 NS7/ITS4; Chinese GMO |
-| 22	| *Pleurotus ostreatus*		| pearl oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| `6AC1`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 23	| *Pleurotus tuber-regium*	| king tuber			|				| 2019-09-21	| P-2		| `EF1B`	| 🔬 polarized; 🧬 NS7/ITS4 |
-| 24	| *Stropharia rugoso-annulata*	| garden giant · wine cap	|				| 2019-09-21	| P-2		| `5547`	| 🔬 polarized |
+| 01	| *Aspergillus niger*		| black mold			| Carolina			| 2019-09-21	| P-1		| `3D5D`	| 🔬 🧬 |
+| 02	| *Coprinus comatus*		| shaggy mane			|				| 2019-10-09	| P-2		| `4C9B`	| 🔬 🧬 |
+| 03	| *Cyclocybe aegerita*		| poplar mushroom		|				| 2018-04-10	| P-5		| `DFC6`	| 🔬 🧬 |
+| 04	| *Fomitopsis betulina*		| birch polypore		| Mass Mushroom Fest '19	| 2019-10-09	| P-2		| `34CA`	| 🔬 🧬 |
+| 05	| *Ganoderma curtisii*		| gold reishi			| Ryan Paul Gates		| 2019-03-07	| P-1		| `867A`	| 🔬 |
+| 06	| *Ganoderma lucidum*		| lingzhi reishi		| Ryan Paul Gates		| 2018-02-10	| P-1		| `49E3`	| 🔬 🧬 |
+| 07	| *Ganoderma sessile*		|				| Ryan Paul Gates · HW		| 2018-02-03	| P-1		| `5763`	| 🔬 🧬 |
+| 08	| *Grifola frondosa*		| hen of the woods		| Charles River			| 2018-12-29	| P-2		| `CD38`	| 🔬 🧬 |
+| 09	| *Grifola frondosa*		| hen of the woods		| Fat Moon Farm			| 2018-02-10	| P-1		| `8DE3`	| 🔬 🧬 |
+| 10	| *Hericium abietis*		| bear's head			|				| 2019-09-21	| P-4		| `BC2B`	| 🔬 🧬 |
+| 11	| *Hericium coralloides*	|				| Bryant Homestead		| 2019-09-21	| P-2		| `7D68`	| 🔬 🧬 |
+| 12	| *Inonotus obliquus*		| chaga				| leschampignons · Wild		| 2019-09-21	| P-1		| `6254`	| 🔬 🧬 |
+| 13	| *Ischnoderma resinosum*	| benzoin bracket		| Bryant Homestead		| 2018-02-10	| P-1		| `7873`	| 🔬 🧬 |
+| 14	| *Laetiporus* sp.		| chicken of the woods		|				| 2018-03-31	| P-1		| `BC74`	| 🔬 |
+| 15	| *Lentinula edodes*		| shiitake			| 3782				| 2018-02-10	| P-4		| `0F8C`	| 🔬 🧬 |
+| 16	| *Penicillium roqueforti*	| blue cheese mold		|				| 2019-09-21	| P-2		| `3626`	| 🔬 🧬 |
+| 17	| *Pholiota microspora*		| nameko			| JPN				| 2019-09-21	| P-1		| `42FD`	| 🔬 🧬 |
+| 18	| *Pholiota microspora*		| nameko			| Mycoterra Farm		| 2018-11-20	| P-7		| `39D9`	| 🔬 🧬 |
+| 19	| *Pleurotus columbinus*	| blue oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| `0586`	| 🔬 🧬 |
+| 20	| *Pleurotus eryngii*		| king trumpet			|				| 2019-02-26	| P-1		| `E48E`	| 🔬 🧬 |
+| 21	| *Pleurotus ostreatus*		| pearl oyster			| Black Pearl			| 2019-10-09	| P-2		| `ACEA`	| 🔬 🧬 Chinese GMO pirate strain |
+| 22	| *Pleurotus ostreatus*		| pearl oyster			| Mycoterra Farm		| 2018-11-20	| P-5		| `6AC1`	| 🔬 🧬 |
+| 23	| *Pleurotus tuber-regium*	| king tuber			|				| 2019-09-21	| P-2		| `EF1B`	| 🔬 🧬 |
+| 24	| *Stropharia rugoso-annulata*	| garden giant · wine cap	|				| 2019-09-21	| P-2		| `5547`	| 🔬 |
 
-Tubes 01–24 are numbered alphabetically as of 2020-04-01, the last time I took full stock and the epoch for my collection.
-Tubes 25–*n* are numbered in the order received and may appear out of alphabetical order.
-The Hex ID is an arbitrary string used to identification purposes.
+`todo:`
+Freeze, revive, and fruit cultures on a convenient basis.
 
 
 # Future work
