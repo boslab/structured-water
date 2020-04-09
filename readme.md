@@ -183,7 +183,7 @@ For the table below,
 - 🔬 denotes whether polarized light microscopy data exists for the mycelium before and after storage.
 - 🧬 denotes whether Sanger sequencing data exists for the NS7/ITS4 region from [diybio/fungi-barcodes](/diybio/fungi-barcodes).
 
-| Tube	| Vital	| Binomial			| Common			| Strain			| Date		| P-Value| HexID| Notes |
+| Tube	| Vital	| Binomial			| Common			| Strain			| Date		| P Value| HexID| Notes |
 | :-:	| :-:	| :--				| :--				| :--				| :-:		| :-:	| :-:	| :-- |
 | 01	| ?	| *Aspergillus niger*		| black mold			| Carolina			| 2019-09-21	| P-1	| `3D5D`| 🔬 🧬 |
 | 02	| ?	| *Coprinus comatus*		| shaggy mane			|				| 2019-10-09	| P-2	| `4C9B`| 🔬 🧬 |
