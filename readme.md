@@ -155,7 +155,7 @@ Then I added 1 mL cryo medium, vortexed, and centrifuged for 2 min at 10 kRPM.
 I repeated this 4 more times for a total of 5 washes.
 
 To make the cryo tubes, I discarded the liquid, centrifuged the tubes once more for 2 min at 10 kRPM, and discarded the remaining liquid.
-Then I used toothpicks to place the washed pellets in Corning 430658 cryo tubes (1.2 mL, silicon washer, extermally threaded).
+Then I used toothpicks to place the washed pellets in Corning 430658 cryo tubes (1.2 mL, silicon washer, externally threaded).
 
 I added 1 mL fresh medium, vortexed them, and placed them in mini freezer boxes between ice packs to stabilize the temperature.
 This is a necessary precaution for home freezers with an auto-defrost mechanism, as temperature fluctuation is harmful.
