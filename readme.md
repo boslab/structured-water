@@ -37,9 +37,9 @@ A member of the Shroomery's PhD tribe inspired this work, suggesting that "somet
 The dH<sub>2</sub>O and sea salt came from Market Basket in New Bedford, MA.
 The light malt extract (CBW Bavarian Wheat) came from Breiss Malt & Ingredients in Chilton, WI.
 
-The DMSO came from [add supplier] in [add city].
-The glycerol came from [add supplier] in [add city].
-The cryotubes (№ W985868) came from DWK Life Sciences (Wheaton) in Millville, NJ.
+The DMSO (99.5% GC, batch 015K0151) came from Sigma-Aldrich in 	St. Louis, MO.
+The glycerol (№ GRM081-1L) came from HiMedia.
+The cryotubes (№ 430658) came from Corning in Corning, NY.
 
 
 ## Developing a test medium
@@ -132,8 +132,9 @@ Test the cryo medium in a hydrometer.
 This section happened in my capable and adaptive home lab due to a public health crisis.
 Please see [diybio/grow-shrooms](/diybio/grow-shrooms) for more details.
 
-I made a somewhat larger batch of medium and used it to wash the cells.
-The ingredients were, per 100 mL of dH<sub>2</sub>O,
+I revived my culture collection agar slant → plate → broth.
+I also made all tubes in duplicate and washed the cells in cryo medium
+The ingredients were, per 100 mL dH<sub>2</sub>O,
 
 - 0.15g sea salt,
 - 0.15g light malt extract,
@@ -141,26 +142,29 @@ The ingredients were, per 100 mL of dH<sub>2</sub>O,
 - 11.2 mL glycerol.
 
 I fermented the mushroom cultures for 1 week in light malt extract broth (20 g/L LME).
-This is half the usual fermentation time for usable mycelium (2 weeks broth to substrate).
-The shorter fermentation time aimed to capture the mycelium just about to grow exponentially.
+This is half the usual fermentation time (2 weeks broth to substrate).
+I aimed to capture the mycelium at the cusp of exponentiality.
 
 The fermentation vessels were Mason jelly jars (4 oz) with about 25 mL sterile broth.
 The lab paradigm uses the same containers for 2D and 3D colonies on agar and broth, respectively.
+Readily available, reusable, stackable, and discreet.
 
 I divided the colonized broth among 12 tubes to capture the mycelium.
-Then I centrifuged them in an Eppendorf 5415 C for 10 min at 10 kRPM after Okamura.[^okamura-wine]
+I centrifuged them in an Eppendorf 5415 C for 10 min at 10 kRPM after Okamura's example.[^okamura-wine]
+Then I manually consolidated the pellets into 2 tubes with sterile toothpicks.
 
-I consolidated the pellets into two tubes manually with sterile toothpicks.
-Then I added 1 mL cryo medium, vortexed, and centrifuged for 2 min at 10 kRPM.
-I repeated this 4 more times for a total of 5 washes.
+To wash the mycelium, I added 1 mL cryo medium and vortexed the samples
+Then I centrifuged for 2 min at 10 kRPM and discarded the supernatant.
+I repeated this step 4 more times for a total of 5 washes.
+Finally I spun the tubes dry and pipetted out the lingering medium.
 
-To make the cryo tubes, I discarded the liquid, centrifuged the tubes once more for 2 min at 10 kRPM, and discarded the remaining liquid.
-Then I used toothpicks to place the washed pellets in Corning 430658 cryo tubes (1.2 mL, silicon washer, externally threaded).
+When the pellets were no longer soaked, I used toothpicks to transfer them to cryotubes.
+The specs are legit and comparable to more expensive Nalgene tubes:
+1.2 mL volume, silicon washer system, externally threaded.
 
-I added 1 mL fresh medium, vortexed them, and placed them in mini freezer boxes between ice packs to stabilize the temperature.
+Then I added 1 mL fresh medium, vortexed them, and placed them in mini freezer boxes between ice packs to stabilize the temperature.
 This is a necessary precaution for home freezers with an auto-defrost mechanism, as temperature fluctuation is harmful.
-
-I inoculated test plates with 20 µL of the solution.
+I inoculated test plates variously with 5, 10, and 20 µL solution (200, 100, and 50 revivals per tube).
 
 
 # Results and discussion
@@ -197,7 +201,7 @@ which itself continues the work at
 [AndyHinton's Journal](https://www.shroomery.org/forums/showflat.php/Number/24031222).
 The progression is
 dH<sub>2</sub>O → saline → basal saline → basal cryo
-in modified dram vials → blood serum tubes → cryo tubes.
+in modified dram vials → blood serum tubes → cryotubes.
 For the table below,
 
 - Tubes 01–24 are numbered alphabetically as of 2020-04-01, the last time I took full stock and the epoch for my collection.
