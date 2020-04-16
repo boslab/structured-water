@@ -34,10 +34,8 @@ A member of the Shroomery's PhD tribe inspired this work, suggesting that "somet
 
 # Materials and methods
 
-The dH<sub>2</sub>O and sea salt came from Market Basket in New Bedford, MA.
 The light malt extract (CBW Bavarian Wheat) came from Breiss Malt & Ingredients in Chilton, WI.
-
-The DMSO (99.5% GC, batch 015K0151) came from Sigma-Aldrich in 	St. Louis, MO.
+The DMSO (99.5% GC, batch 015K0151) came from Sigma-Aldrich in	St. Louis, MO.
 The glycerol (№ GRM081-1L) came from HiMedia.
 The cryotubes (№ 430658) came from Corning in Corning, NY.
 
@@ -115,11 +113,11 @@ todo: Photograph a snowflake tube.
 
 **pH.**
 `todo:`
-Test the pH of a 200 mL production batch before autoclaving.
+Write up beer/wine strip results and test the pH with a real meter.
 
 **Gravity.**
 `todo:`
-Test the cryo medium in a hydrometer.
+Test the gravity with a hydrometer.
 
 
 | ![](pictures/DMSO.water.freezing.jpg)	|
