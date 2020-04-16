@@ -34,8 +34,7 @@ A member of the Shroomery's PhD tribe inspired this work, suggesting that "somet
 
 # Materials and methods
 
-The deionized water came from [add supplier] in [add city].
-The sea salt came from [add supplier] in [add city].
+The dH<sub>2</sub>O and sea salt came from Market Basket in New Bedford, MA.
 The light malt extract (CBW Bavarian Wheat) came from Breiss Malt & Ingredients in Chilton, WI.
 
 The DMSO came from [add supplier] in [add city].
@@ -118,6 +117,10 @@ todo: Photograph a snowflake tube.
 `todo:`
 Test the pH of a 200 mL production batch before autoclaving.
 
+**Gravity.**
+`todo:`
+Test the cryo medium in a hydrometer.
+
 
 | ![](pictures/DMSO.water.freezing.jpg)	|
 | :--					|
@@ -126,18 +129,38 @@ Test the pH of a 200 mL production batch before autoclaving.
 
 ## Preparing the culture tubes
 
+This section happened in my capable and adaptive home lab due to a public health crisis.
+Please see [diybio/grow-shrooms](/diybio/grow-shrooms) for more details.
+
 I made a somewhat larger batch of medium and used it to wash the cells.
-The ingredients were, per 100 mL of deionized water,
+The ingredients were, per 100 mL of dH<sub>2</sub>O,
 
 - 0.15g sea salt,
 - 0.15g light malt extract,
 - 25.24 mL DMSO, and
 - 11.2 mL glycerol.
 
-`todo:`
-Describe fermenting for 5 days in MYPB until the cusp of the exponential phase.
-Then repeatedly centrifuge and wash the pellet in storage medium.
-Aim for a thick solution of fine hyphae fragments, to deposit 5 μL on a plate.
+I fermented the mushroom cultures for 1 week in light malt extract broth (20 g/L LME).
+This is half the usual fermentation time for usable mycelium (2 weeks broth to substrate).
+The shorter fermentation time aimed to capture the mycelium just about to grow exponentially.
+
+The fermentation vessels were Mason jelly jars (4 oz) with about 25 mL sterile broth.
+The lab paradigm uses the same containers for 2D and 3D colonies on agar and broth, respectively.
+
+I divided the colonized broth among 12 tubes to capture the mycelium.
+Then I centrifuged them in an Eppendorf 5415 C for 10 min at 10 kRPM after Okamura.[^okamura-wine]
+
+I consolidated the pellets into two tubes manually with sterile toothpicks.
+Then I added 1 mL cryo medium, vortexed, and centrifuged for 2 min at 10 kRPM.
+I repeated this 4 more times for a total of 5 washes.
+
+To make the cryo tubes, I discarded the liquid, centrifuged the tubes once more for 2 min at 10 kRPM, and discarded the remaining liquid.
+Then I used toothpicks to place the washed pellets in Corning 430658 cryo tubes (1.2 mL, silicon washer, extermally threaded).
+
+I added 1 mL fresh medium, vortexed them, and placed them in mini freezer boxes between ice packs to stabilize the temperature.
+This is a necessary precaution for home freezers with an auto-defrost mechanism, as temperature fluctuation is harmful.
+
+I inoculated test plates with 20 µL of the solution.
 
 
 # Results and discussion
@@ -241,3 +264,12 @@ else
 freeze slow; thaw fast
 return blog post
 ```
+
+
+<!--
+  Bibliography
+  Paste Sci-Hub URI, edit
+  "Title," *Journal,* and https://doi.org/
+-->
+
+[^okamura-wine]: OKAMURA, T., OGATA, T., MINAMOTO, N., TAKENO, T., NODA, H., FUKUDA, S., & OHSUGI, M. (2001). "Characteristics of Wine Produced by Mushroom Fermentation." *Bioscience, Biotechnology, and Biochemistry,* 65(7), 1596–1600. doi:10.1271/bbb.65.1596
